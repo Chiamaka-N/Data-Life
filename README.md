@@ -70,7 +70,7 @@ Total Ratings = Overall Ratings + Service Ratings + Food Ratings
 ```
 
 #### Results/Findings
-
+![Global Store Analysis](https://github.com/user-attachments/assets/5f6b8400-d4cc-47a0-9247-e4f5d3a51d3d)
 
  1) Total number of restaurants under re-view is 127, which vary from North America, Asia, Europe to South American Cuisine.
 a) The first graph shows what top 10 restaurants have the highest ranking based on the different types of cuisine. it is quite evident to see that the type of cuisine plays a very important role in the restaurant picked and customers that choose to visit them, Mexican cuisine from the restaurant called Gorditas Doa Gloria, while the least rated is Mexican and American from the restaurant called Vips.
@@ -94,6 +94,8 @@ a) Cater to Singles that are in their early 20's, are casual drinkers, students,
 - Excluded all null/zero data
 - Trimmed all spaces
   
+
+
 
 #### Second Data Source
 
@@ -134,6 +136,9 @@ If you were to invest in a restaurant, which characteristics would you be lookin
 Include some interesting code/features worked with however none was used here.
 
 #### Results/Findings
+
+[Consumer Analysis for a Restaurant in Mexico.pdf](https://github.com/user-attachments/files/16257593/Consumer.Analysis.for.a.Restaurant.in.Mexico.pdf)
+
 1) The top 3 countries with the highest sales for the year 2014, with first place going to the United States, 2nd place is Australia and the 3rd is France.
 
 2) Top 3 least profitable subcategories are Accessories, Supplies and Tables. In Southeast Asia the countries that this affects include, Indonesia, Philippines, Thailand and Vietnam. With respect to the analysis Global stores should stop sending Tables to Indonesia as they are less profitable.
@@ -185,9 +190,13 @@ In this phase, the following tasks were performed;
 
 EDA is exploring the Employee Survey to answer key questions, such as;
 
-1) From the Employee Survey Response Analysis, the survey question that respondents agreed with was “I know what is expected of me at work” and disagreed with most was “In the last seven days, I received recognition or praise for doing a good job”.
-
-2) The planning and public works department has the highest number of responses with 4666 responses while the Economic department has the lowest responses with 69 responses. The Public Works and Planning is a department that deals with external factors from the public while the Economic department deals with Internal issues of the department where the dissatisfaction with the company is more than evident.
+- Question 1.
+Which survey questions did respondents agree with or disagree with most?
+- Question 2.
+Do you see any patterns or trends by department or role?
+- Question 3.
+As an employer, what steps might you take to improve employee satisfaction based on the survey
+results?
 
 
 #### Data Analysis 
@@ -196,6 +205,14 @@ Include some interesting code/features worked with,
 ``` powerBi 
 Table.FillDown
 ```
+
+#### Results/Findings
+
+[Employee Survey.pdf](https://github.com/user-attachments/files/16257614/Employee.Survey.pdf)
+
+1) From the Employee Survey Response Analysis, the survey question that respondents agreed with was “I know what is expected of me at work” and disagreed with most was “In the last seven days, I received recognition or praise for doing a good job”.
+
+2) The planning and public works department has the highest number of responses with 4666 responses while the Economic department has the lowest responses with 69 responses. The Public Works and Planning is a department that deals with external factors from the public while the Economic department deals with Internal issues of the department where the dissatisfaction with the company is more than evident.
 
 #### Recommendations
 
