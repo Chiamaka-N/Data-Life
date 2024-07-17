@@ -145,7 +145,7 @@ Include some interesting code/features worked with however none was used here.
 
 #### Results/Findings
 
-<img width="385" alt="Consumer Ratings" src="https://github.com/user-attachments/assets/c43db627-56f6-458f-8da4-fa60927812c3">
+   <img width="385" alt="Consumer Ratings" src="https://github.com/user-attachments/assets/c43db627-56f6-458f-8da4-fa60927812c3">
 
 
 1) Total number of restaurants under re-view is 127, which vary from North America, Asia, Europe to South American Cuisine.
@@ -209,7 +209,7 @@ Table.FillDown
 
 #### Results/Findings
 
-<img width="389" alt="Employee Survey" src="https://github.com/user-attachments/assets/d5e690ea-fef1-41ae-a951-32817058b5e7">
+   <img width="389" alt="Employee Survey" src="https://github.com/user-attachments/assets/d5e690ea-fef1-41ae-a951-32817058b5e7">
 
 
 1) From the Employee Survey Response Analysis, the survey question that respondents agreed with was “I know what is expected of me at work” and disagreed with most was “In the last seven days, I received recognition or praise for doing a good job”.
