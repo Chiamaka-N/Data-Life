@@ -72,21 +72,29 @@ Total Ratings = Overall Ratings + Service Ratings + Food Ratings
 #### Results/Findings
 ![Global Store Analysis](https://github.com/user-attachments/assets/5f6b8400-d4cc-47a0-9247-e4f5d3a51d3d)
 
- 1) Total number of restaurants under re-view is 127, which vary from North America, Asia, Europe to South American Cuisine.
-a) The first graph shows what top 10 restaurants have the highest ranking based on the different types of cuisine. it is quite evident to see that the type of cuisine plays a very important role in the restaurant picked and customers that choose to visit them, Mexican cuisine from the restaurant called Gorditas Doa Gloria, while the least rated is Mexican and American from the restaurant called Vips.
-b) Customer preference plays a huge role on the type of cuisine that is ordered or even what restaurant to go to or order from.
+1) The top 3 countries with the highest sales for the year 2014, with first place going to the United States, 2nd place is Australia and the 3rd is France.
 
- 2) The main consumer demographics in this data include; Age, Marital status, habits, Family size(Children), Occupation, Budget, City, State, Transportation.
-a) The analysis above shows that there is no bias in the data sampled as varying ranges of the consumer demographics was used in this data sample.
+2) Top 3 least profitable subcategories are Accessories, Supplies and Tables. In Southeast Asia the countries that this affects include, Indonesia, Philippines, Thailand and Vietnam. With respect to the analysis Global stores should stop sending Tables to Indonesia as they are less profitable.
 
- 3) From the above analysis, there is still a niche that has not been tapped into and this is the Vegan or vegetarians, have a restaurant with very good vegan options this is a potion of the market that can be exploited.
+3) The top 3 countries with the highest sales for the year 2014, with first place going to the United States, 2nd place is Australia 
+and the 3rd is France. The highest selling products in these countries vary  with Advanced copier as the highest selling product for the united states, while in France it is Apple smart phone and in Australia it is the Hon. Executive Leather armchair, Adjustable.
+
+4) The top 3 subcategories with the highest shipping cost for the United States are Copiers, Machines and Tables.
+
+5) The profitability of Nigeria against Shipping cost and average discount is non-existent as we can see that there is no profit to be made from shipping at a discount to Nigeria.
+ 
+6) From the top 5 cities in the United States with the lowest average and quantity ordered, Lancaster has the lowest average profit while campaign has the lowest quantity order.
+
+7) In Australia, the top 10 subcategories with the highest average profit is Appliances with a total average profit of 139 while paper is the lowest subcategory with an average profit of 13. This shows how Australia can be said to be an Eco-friendly country.
+
+8) The most valuable customers are the Consumers who make up a large chunk of sales for the Global stores, with the highest selling product for consumers being Technology and the lowest sales are from the Home Office and the least purchased item is Office supplies.
 
 
 #### Recommendations
 
-
-  - If/When investing in a restaurant, the characteristics to look out for include; 
-a) Cater to Singles that are in their early 20's, are casual drinkers, students, Independent and live a medium budget also add vegans to this list.
+- Create even better and more advanced technology to attract more consumers.
+- Re-evaluate shipment and discount to countries like Nigeria.
+- Re-evaluate shipments made to Southeast Asia.
 
 
 #### Limitations
@@ -137,31 +145,24 @@ Include some interesting code/features worked with however none was used here.
 
 #### Results/Findings
 
-[Consumer Analysis for a Restaurant in Mexico.pdf](https://github.com/user-attachments/files/16257593/Consumer.Analysis.for.a.Restaurant.in.Mexico.pdf)
+<img width="385" alt="Consumer Ratings" src="https://github.com/user-attachments/assets/c43db627-56f6-458f-8da4-fa60927812c3">
 
-1) The top 3 countries with the highest sales for the year 2014, with first place going to the United States, 2nd place is Australia and the 3rd is France.
 
-2) Top 3 least profitable subcategories are Accessories, Supplies and Tables. In Southeast Asia the countries that this affects include, Indonesia, Philippines, Thailand and Vietnam. With respect to the analysis Global stores should stop sending Tables to Indonesia as they are less profitable.
+1) Total number of restaurants under re-view is 127, which vary from North America, Asia, Europe to South American Cuisine.
+a) The first graph shows what top 10 restaurants have the highest ranking based on the different types of cuisine. it is quite evident to see that the type of cuisine plays a very important role in the restaurant picked and customers that choose to visit them, Mexican cuisine from the restaurant called Gorditas Doa Gloria, while the least rated is Mexican and American from the restaurant called Vips.
+b) Customer preference plays a huge role on the type of cuisine that is ordered or even what restaurant to go to or order from.
 
-3) The top 3 countries with the highest sales for the year 2014, with first place going to the United States, 2nd place is Australia 
-and the 3rd is France. The highest selling products in these countries vary  with Advanced copier as the highest selling product for the united states, while in France it is Apple smart phone and in Australia it is the Hon. Executive Leather armchair, Adjustable.
+ 2) The main consumer demographics in this data include; Age, Marital status, habits, Family size(Children), Occupation, Budget, City, State, Transportation.
+a) The analysis above shows that there is no bias in the data sampled as varying ranges of the consumer demographics was used in this data sample.
 
-4) The top 3 subcategories with the highest shipping cost for the United States are Copiers, Machines and Tables.
-
-5) The profitability of Nigeria against Shipping cost and average discount is non-existent as we can see that there is no profit to be made from shipping at a discount to Nigeria.
-
-6) From the top 5 cities in the United States with the lowest average and quantity ordered, Lancaster has the lowest average profit while campaign has the lowest quantity order.
-
-7) In Australia, the top 10 subcategories with the highest average profit is Appliances with a total average profit of 139 while paper is the lowest subcategory with an average profit of 13. This shows how Australia can be said to be an Eco-friendly country.
-
-8) The most valuable customers are the Consumers who make up a large chunk of sales for the Global stores, with the highest selling product for consumers being Technology and the lowest sales are from the Home Office and the least purchased item is Office supplies.
+ 3) From the above analysis, there is still a niche that has not been tapped into and this is the Vegan or vegetarians, have a restaurant with very good vegan options this is a potion of the market that can be exploited.
 
 
 #### Recommendations
 
-- Create even better and more advanced technology to attract more consumers.
-- Re-evaluate shipment and discount to countries like Nigeria.
-- Re-evaluate shipments made to Southeast Asia.
+
+  - If/When investing in a restaurant, the characteristics to look out for include; 
+a) Cater to Singles that are in their early 20's, are casual drinkers, students, Independent and live a medium budget also add vegans to this list.
 
 
 
@@ -208,7 +209,8 @@ Table.FillDown
 
 #### Results/Findings
 
-[Employee Survey.pdf](https://github.com/user-attachments/files/16257614/Employee.Survey.pdf)
+<img width="389" alt="Employee Survey" src="https://github.com/user-attachments/assets/d5e690ea-fef1-41ae-a951-32817058b5e7">
+
 
 1) From the Employee Survey Response Analysis, the survey question that respondents agreed with was “I know what is expected of me at work” and disagreed with most was “In the last seven days, I received recognition or praise for doing a good job”.
 
